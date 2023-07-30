@@ -4,7 +4,7 @@
     <p align="justify">
       The purpose of this project is to answer the following questions based on the available 
       <a href="https://github.com/DurinPavel/correlation_analysis_mortality_and_water/blob/main/water.csv" target="_blank">
-      data set</a>:
+      dataset</a>:
       <ul>
         <li>is there a connection between water hardness and average annual mortality?</li>
         <li>is there a similar relationship for northern and southern cities separately?</li>
